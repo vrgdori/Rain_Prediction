@@ -32,7 +32,7 @@ A projekt meteorológiai adatok alapján jósolja meg, hogy a következő napon 
 A tanított Gradient Boosting Classifier modell az alábbi teljesítményt érte el a tesztkészleten:
     Modell pontossága (Accuracy): 84%
     
-![Eredmény](result.PNG)
+![Eredmény](output.png)
 
     True Negative (TN): 20 897 esetben helyesen jósolta meg, hogy nem fog esni.
     True Positive (TP): 3 124 esetben helyesen jósolta meg, hogy fog esni.
