@@ -12,12 +12,10 @@ A projekt meteorológiai adatok alapján jósolja meg, hogy a következő napon 
     -   Gépi tanulás: scikit-learn
     -   Adatvizualizáció: matplotlib, seaborn
 
-## Adatelőkészítés és TisztításTarget tisztítás: 
+## Adatelőkészítés és Tisztítás: 
     -   A hiányzó célváltozóval (RainTomorrow == NaN) rendelkező sorok eltávolítása.
     -   Dátum transzformáció: A Date mező átalakítása külön Year, Month, Day numerikus oszlopokká, majd az eredeti Date oszlop eldobása.
     -   Kategórikus kódolás: A szöveges jellegű kategórikus változók numerikussá alakítása LabelEncoder segítségével.
-
-## Imputálás és Feature Selection
     -   Hiányzó adatok pótlása: A numerikus oszlopokban meglévő NaN értékek helyettesítése az adott oszlop átlagával (mean()).
     -   Multikollinearitás csökkentése: A korrelációs hőtérkép (Pearson-korreláció) elemzése alapján az erősen korreláló, redundáns oszlopok eltávolítása: Eltávolított oszlopok: MinTemp, MaxTemp, Pressure3pm, Temp9am
 
