@@ -4,7 +4,7 @@ A projekt meteorológiai adatok alapján jósolja meg, hogy a következő napon 
 
 ## Architektúra
 
-![Architektúra](archi.PNG)
+![Architektúra](archi.png)
 
 ## Használt technológiák (Tech Stack)
     -   Nyelv: Python 3.x
