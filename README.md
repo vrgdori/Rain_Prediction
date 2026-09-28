@@ -62,8 +62,8 @@ Győződj meg róla, hogy a Python 3.8+ telepítve van a gépeden.
 
 ### 1. Repository klónozása
 ```bash
-git clone [https://github.com/felhasznalonev/australian-weather-ml.git](https://github.com/felhasznalonev/australian-weather-ml.git)
-cd australian-weather-ml
+git clone [https://github.com/vrgdori/Rain_Prediction.git](https://github.com/vrgdori/Rain_Prediction.git)
+cd Rain Prediction
 ```
 
 ### 2. Függőségek telepítése
